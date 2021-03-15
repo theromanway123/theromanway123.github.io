@@ -1,0 +1,24 @@
+.back1{
+    background-color: black;
+}
+
+.black_pls{
+    color: black;
+}
+
+.background_coding{
+    background-image: url('../images/coding_skills.jpeg');
+}
+.background_software_dev{
+    background-image: url('../images/sde.jpeg');
+}
+.background_projects{
+    background-image: url('../images/projects.jpg');
+}
+.background_shopping{
+    background-image: url('../images/shopping.jpeg');
+}
+
+.background_contact{
+    background-image: url('../images/contact.jpeg');
+}
